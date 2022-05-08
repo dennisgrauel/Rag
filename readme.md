@@ -1,12 +1,12 @@
 # Rag
 
-This font was drawn on Wurundjeri Country, in the Kulin Nation. Sovereignty was never ceded.
+This font is drawn on Wurundjeri Country, part of the Kulin Nation. The sovereignty and custodianship of Wurundjeri people is ongoing.
 
 ![rag-styles](/documentation/images/rag-styles.png)
 
 Rag is a grotesque with an informal tone, drawn to fill a need for something broadly useful, unpretentious, vulgar, a little bit crude, and free.
 
-The family structure is modelled on Arial, while Rag’s italic weights claim their own logic and level of flair.
+The family structure is modelled on Arial, which comprises a very functional set of styles. Rag’s italic weights are slightly distinct with some different logic and flair. 
 
 ![rag-waterfall](/documentation/images/rag-waterfall.png)
 
